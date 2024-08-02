@@ -54,4 +54,8 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/TanishValesha/LeetCode/tree/master/0338-counting-bits) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
