@@ -5,6 +5,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/TanishValesha/LeetCode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/TanishValesha/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -45,6 +46,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/TanishValesha/LeetCode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/TanishValesha/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -65,6 +67,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TanishValesha/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/TanishValesha/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TanishValesha/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/TanishValesha/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -76,10 +79,15 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TanishValesha/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/TanishValesha/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TanishValesha/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/TanishValesha/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/TanishValesha/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
