@@ -18,19 +18,19 @@ public:
             length++;
             temp = temp->next;
         }
+        temp = head;
+        int real_c = length - k + 1;
         ListNode* temp_begin = head;
-        while(temp_begin->next != NULL){
+        ListNode* temp_end = head;
+        while(temp != NULL){
             if(count == k){
-                break;
+                temp_begin = temp;
+            }
+            if(count == real_c){
+                temp_end = temp;
             }
             count++;
-            temp_begin = temp_begin->next;
-        }
-        ListNode* temp_end = head;
-        int real_c = length - k + 1;
-        while(real_c != 1){
-            temp_end = temp_end->next;
-            real_c--;
+            temp = temp->next;
         }
         int temp_int = temp_end->val;
         temp_end->val = temp_begin->val;
