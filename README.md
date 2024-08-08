@@ -34,6 +34,7 @@
 | ------- |
 | [0136-single-number](https://github.com/TanishValesha/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/TanishValesha/LeetCode/tree/master/0268-missing-number) |
+| [1072-next-greater-node-in-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0328-odd-even-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/TanishValesha/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
@@ -97,8 +99,13 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/TanishValesha/LeetCode/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1072-next-greater-node-in-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
