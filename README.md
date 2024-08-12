@@ -34,6 +34,7 @@
 | ------- |
 | [0136-single-number](https://github.com/TanishValesha/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/TanishValesha/LeetCode/tree/master/0268-missing-number) |
+| [0682-baseball-game](https://github.com/TanishValesha/LeetCode/tree/master/0682-baseball-game) |
 | [1072-next-greater-node-in-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/TanishValesha/LeetCode/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/TanishValesha/LeetCode/tree/master/0682-baseball-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/TanishValesha/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3447-clear-digits](https://github.com/TanishValesha/LeetCode/tree/master/3447-clear-digits) |
 ## Dynamic Programming
@@ -103,6 +105,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/TanishValesha/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/TanishValesha/LeetCode/tree/master/0682-baseball-game) |
 | [1072-next-greater-node-in-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [3447-clear-digits](https://github.com/TanishValesha/LeetCode/tree/master/3447-clear-digits) |
 ## Merge Sort
