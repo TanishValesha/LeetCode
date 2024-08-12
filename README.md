@@ -56,11 +56,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/TanishValesha/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/TanishValesha/LeetCode/tree/master/0067-add-binary) |
+| [3447-clear-digits](https://github.com/TanishValesha/LeetCode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/TanishValesha/LeetCode/tree/master/0067-add-binary) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/TanishValesha/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3447-clear-digits](https://github.com/TanishValesha/LeetCode/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0020-valid-parentheses](https://github.com/TanishValesha/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
+| [3447-clear-digits](https://github.com/TanishValesha/LeetCode/tree/master/3447-clear-digits) |
 ## Merge Sort
 |  |
 | ------- |
