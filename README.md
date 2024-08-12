@@ -54,6 +54,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TanishValesha/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/TanishValesha/LeetCode/tree/master/0067-add-binary) |
 ## Simulation
 |  |
@@ -98,6 +99,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TanishValesha/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Merge Sort
