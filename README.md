@@ -58,6 +58,7 @@
 | [0020-valid-parentheses](https://github.com/TanishValesha/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/TanishValesha/LeetCode/tree/master/0067-add-binary) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/TanishValesha/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1666-make-the-string-great](https://github.com/TanishValesha/LeetCode/tree/master/1666-make-the-string-great) |
 | [3447-clear-digits](https://github.com/TanishValesha/LeetCode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -109,6 +110,7 @@
 | [0682-baseball-game](https://github.com/TanishValesha/LeetCode/tree/master/0682-baseball-game) |
 | [1072-next-greater-node-in-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/TanishValesha/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1666-make-the-string-great](https://github.com/TanishValesha/LeetCode/tree/master/1666-make-the-string-great) |
 | [3447-clear-digits](https://github.com/TanishValesha/LeetCode/tree/master/3447-clear-digits) |
 ## Merge Sort
 |  |
