@@ -40,6 +40,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TanishValesha/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TanishValesha/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/TanishValesha/LeetCode/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/TanishValesha/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/TanishValesha/LeetCode/tree/master/0682-baseball-game) |
 | [1072-next-greater-node-in-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Hash Table
@@ -59,6 +60,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TanishValesha/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TanishValesha/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/TanishValesha/LeetCode/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/TanishValesha/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
