@@ -16,6 +16,7 @@
 | [0231-power-of-two](https://github.com/TanishValesha/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TanishValesha/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/TanishValesha/LeetCode/tree/master/0338-counting-bits) |
+| [0476-number-complement](https://github.com/TanishValesha/LeetCode/tree/master/0476-number-complement) |
 ## Math
 |  |
 | ------- |
