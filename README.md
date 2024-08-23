@@ -15,6 +15,7 @@
 | [0191-number-of-1-bits](https://github.com/TanishValesha/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/TanishValesha/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TanishValesha/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/TanishValesha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/TanishValesha/LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/TanishValesha/LeetCode/tree/master/0476-number-complement) |
 ## Math
@@ -42,6 +43,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TanishValesha/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TanishValesha/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/TanishValesha/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/TanishValesha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TanishValesha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanishValesha/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/TanishValesha/LeetCode/tree/master/0682-baseball-game) |
@@ -64,6 +66,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TanishValesha/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TanishValesha/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/TanishValesha/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/TanishValesha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TanishValesha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanishValesha/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
@@ -122,6 +125,7 @@
 | [0148-sort-list](https://github.com/TanishValesha/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TanishValesha/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/TanishValesha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TanishValesha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/0908-middle-of-the-linked-list) |
