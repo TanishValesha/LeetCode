@@ -25,6 +25,7 @@
 | [0069-sqrtx](https://github.com/TanishValesha/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/TanishValesha/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TanishValesha/LeetCode/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/TanishValesha/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0287-find-the-duplicate-number](https://github.com/TanishValesha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TanishValesha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanishValesha/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/TanishValesha/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | [0287-find-the-duplicate-number](https://github.com/TanishValesha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TanishValesha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0633-sum-of-square-numbers](https://github.com/TanishValesha/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
