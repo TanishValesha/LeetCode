@@ -49,6 +49,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/TanishValesha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanishValesha/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/TanishValesha/LeetCode/tree/master/0682-baseball-game) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/TanishValesha/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/TanishValesha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanishValesha/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/TanishValesha/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/TanishValesha/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
