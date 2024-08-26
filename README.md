@@ -92,6 +92,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/TanishValesha/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/TanishValesha/LeetCode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/TanishValesha/LeetCode/tree/master/1720-crawler-log-folder) |
+| [2470-removing-stars-from-a-string](https://github.com/TanishValesha/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/TanishValesha/LeetCode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -99,6 +100,7 @@
 | [0067-add-binary](https://github.com/TanishValesha/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/TanishValesha/LeetCode/tree/master/0682-baseball-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/TanishValesha/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2470-removing-stars-from-a-string](https://github.com/TanishValesha/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/TanishValesha/LeetCode/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
@@ -151,6 +153,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TanishValesha/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/TanishValesha/LeetCode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/TanishValesha/LeetCode/tree/master/1720-crawler-log-folder) |
+| [2470-removing-stars-from-a-string](https://github.com/TanishValesha/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/TanishValesha/LeetCode/tree/master/3447-clear-digits) |
 ## Merge Sort
 |  |
