@@ -51,6 +51,7 @@
 | [0682-baseball-game](https://github.com/TanishValesha/LeetCode/tree/master/0682-baseball-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TanishValesha/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TanishValesha/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [0682-baseball-game](https://github.com/TanishValesha/LeetCode/tree/master/0682-baseball-game) |
 | [1072-next-greater-node-in-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/TanishValesha/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TanishValesha/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/TanishValesha/LeetCode/tree/master/1666-make-the-string-great) |
 | [3447-clear-digits](https://github.com/TanishValesha/LeetCode/tree/master/3447-clear-digits) |
 ## Merge Sort
@@ -155,4 +157,5 @@
 |  |
 | ------- |
 | [1072-next-greater-node-in-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TanishValesha/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
