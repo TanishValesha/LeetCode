@@ -52,6 +52,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/TanishValesha/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TanishValesha/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1720-crawler-log-folder](https://github.com/TanishValesha/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0067-add-binary](https://github.com/TanishValesha/LeetCode/tree/master/0067-add-binary) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/TanishValesha/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/TanishValesha/LeetCode/tree/master/1666-make-the-string-great) |
+| [1720-crawler-log-folder](https://github.com/TanishValesha/LeetCode/tree/master/1720-crawler-log-folder) |
 | [3447-clear-digits](https://github.com/TanishValesha/LeetCode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -148,6 +150,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/TanishValesha/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TanishValesha/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/TanishValesha/LeetCode/tree/master/1666-make-the-string-great) |
+| [1720-crawler-log-folder](https://github.com/TanishValesha/LeetCode/tree/master/1720-crawler-log-folder) |
 | [3447-clear-digits](https://github.com/TanishValesha/LeetCode/tree/master/3447-clear-digits) |
 ## Merge Sort
 |  |
