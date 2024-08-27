@@ -49,6 +49,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/TanishValesha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanishValesha/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/TanishValesha/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/TanishValesha/LeetCode/tree/master/0739-daily-temperatures) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TanishValesha/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TanishValesha/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -148,6 +149,7 @@
 | [0020-valid-parentheses](https://github.com/TanishValesha/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/TanishValesha/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/TanishValesha/LeetCode/tree/master/0739-daily-temperatures) |
 | [1072-next-greater-node-in-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/TanishValesha/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TanishValesha/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -162,6 +164,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/TanishValesha/LeetCode/tree/master/0739-daily-temperatures) |
 | [1072-next-greater-node-in-linked-list](https://github.com/TanishValesha/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TanishValesha/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
